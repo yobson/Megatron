@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="bee1723c-a609-47a1-9d66-4ab7fc77f0f2"
+    Name="afcfefa8-9c11-4db2-801f-5f13bcc655b3"
     Publisher="CN=jamho"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="bee1723c-a609-47a1-9d66-4ab7fc77f0f2" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="afcfefa8-9c11-4db2-801f-5f13bcc655b3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Megatron</DisplayName>
+    <DisplayName>MainController</DisplayName>
     <PublisherDisplayName>jamho</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="Megatron.App">
+      EntryPoint="MainController.App">
       <uap:VisualElements
-        DisplayName="Megatron"
+        DisplayName="MainController"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="Megatron"
+        Description="MainController"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

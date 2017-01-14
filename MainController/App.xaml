@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="Megatron.App"
+    x:Class="MainController.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:Megatron"
+    xmlns:local="using:MainController"
     RequestedTheme="Light">
 
 </Application>

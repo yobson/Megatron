@@ -6,7 +6,7 @@
 #include "pch.h"
 #include "MainPage.xaml.h"
 
-using namespace Megatron;
+using namespace MainController;
 
 using namespace Platform;
 using namespace Windows::ApplicationModel;
